@@ -1,0 +1,30 @@
+<plugins>
+<pyqgis_plugin name="JCCM Carreteras" version="1.07">
+<description>
+Barra de herramientas de Carreteras para Direccion General de Carreteras. Consejeria de Fomento. Junta de Comunidades de Castilla-La Mancha
+	Implementa las siguientes funciones:
+    -	Identificador de Carreteras/Cota de un punto/Calculadora de rutas
+    -	Balizador de Carreteras
+    -	Buscador general (carreteras, poblaciones, coordenadas)
+	-	Acceso a Google Street View en navegador
+    -	Identificador de parcela catastral
+    -	Cargador de capas catastrales de un Término Municipal
+    -	Carga de catastro Histórico
+    -	Buscador de parcelas catastrales
+    -	Carga de capas desde Catálogo
+    -	Herramientas de Carreteras
+    -	Herramientas de Expropiaciones
+    -	Limpiar busquedas
+    -	Carga de Mapa inicial de CLM
+    -	Menú de impresión rápida
+    -	Menu de configuracion
+    -	Ayuda
+
+</description>
+<homepage>file:///Z:/cartografia/datos_Q/INSTALACION%20SIG_CLM_QGIS/jccm_bar/PLUGIN_HISTORIAL.mht</homepage>
+<qgis_minimum_version>3.4</qgis_minimum_version>
+<file_name>jccm_bar3.zip</file_name>
+<author_name>JCCM. Agustín Solabre (desde v.1.23b para 2.14)</author_name>
+<download_url>https://github.com/asolabre/JCCM_BAR3/blob/main/jccm_bar3.zip</download_url>
+</pyqgis_plugin>
+</plugins>
