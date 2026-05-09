@@ -1,0 +1,23 @@
+﻿<plugins>
+	<pyqgis_plugin name="JCCM Carreteras" version="3.02">
+		<description>
+			JCCM. Herramienta de gestion de Carreteras, Catastro y Dominio Público de Castilla - La Mancha
+		</description>
+		<homepage>https://github.com/asolabre/JCCM_BAR3/blob/main/</homepage>
+		<qgis_minimum_version>3.2</qgis_minimum_version>
+		<file_name>jccm_bar3.zip</file_name>
+		<author_name>JCCM. Agustín Solabre (desde v.1.23b)</author_name>
+		<download_url>https://jccmes-my.sharepoint.com/:f:/r/personal/asolabre_jccm_es/Documents/cartografia/COMPARTIDA?csf=1&web=1&e=aZ79QD</download_url>
+	</pyqgis_plugin>
+
+	<pyqgis_plugin name="LRS JCCM" version="1.2.3">
+		<description>
+			HERRAMIENTA DE CALIBRACIÓN (Sistema de Referenciación Lineal LRS)
+		</description>
+		<homepage>https://jccmes-my.sharepoint.com/:f:/r/personal/asolabre_jccm_es/Documents/cartografia/COMPARTIDA?csf=1&web=1&e=aZ79QD</homepage>
+		<qgis_minimum_version>3.2</qgis_minimum_version>
+		<file_name>lrs.zip</file_name>
+		<author_name>Radim Blažek radim.blazek@gmail.com / TRADUCCIÓN JCCM. Agustín Solabre</author_name>
+		<download_url>file:///Z:/cartografia/datos_Q/INSTALACION%20SIG_CLM_QGIS/jccm_bar3/lrs.zip</download_url>
+	</pyqgis_plugin>
+</plugins>
