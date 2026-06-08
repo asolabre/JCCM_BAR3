@@ -3,7 +3,7 @@
     3.04a
         * Reorganización de iconos -solo.jpg, nombres cat_. nombres normalizados (26/5/26)
     3.04
-        * Reorganización de las herrewmientas catastrales para iguala a plugin independiente 'catastroesp' (18/5/26)
+        * Reorganización de las herramientas catastrales para igualar a plugin independiente 'catastroesp' (18/5/26)
         * Eliminadas las herramients de BBDD que pasan a otro plugin 'HerrPlugin' (14/5/26)
         * Se incorpora herramienta para generar un GML de CONSTRUCCIONES -ICUC- (22/5/26)
         * Se incluye un sistema de ayuda por herramienta en \help\ (23/5/26)
