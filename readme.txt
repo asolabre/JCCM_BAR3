@@ -8,7 +8,7 @@ name=JCCM Carreteras
 qgisMinimumVersion=3.4.11
 qgisMaximumVersion=3.40.99
 description=JCCM. Herramienta de gestion de Carreteras y datos catastrales
-version=3.02
+version=3.04
 author=Agustín Solabre Suárez / DIRECCIÓN GENERAL DE CARRETERAS
 email=gis.carreteras@jccm.es
 telephone=967-558141
@@ -45,8 +45,17 @@ tags=roads, carreteras, gml, catastro, expropiaciones, finder, cartociudad,
 changelog=
     CAMBIOS ENTRE VERSIONES
     -----------------------------------
-    3.02a
+    3.04a
+        * Reorganización de iconos -solo.jpg, nombres cat_. nombres normalizados (26/5/26)
+    3.04
+        * Reorganización de las herrewmientas catastrales para iguala a plugin independiente 'catastroesp' (18/5/26)
+        * Eliminadas las herramients de BBDD que pasan a otro plugin 'HerrPlugin' (14/5/26)
+        * Se incorpora herramienta para generar un GML de CONSTRUCCIONES -ICUC- (22/5/26)
+        * Se incluye un sistema de ayuda por herramienta en \help\ (23/5/26)
+    3.03
         * Mejoras de usuario en herrDP_informes_invasionDP.py, activa o no el botón CARGAR, si las parcelas ya están (7/5/26)
+        * Limpieza general del plugin y adaptación del metadata.txt para poderlo subir a GitHub (9/5/26)
+        * Se eliminan IMPORT y FROM obsoletos, sin uso o inadecuados (11/5/26)
     3.02
         * Cambios de estructura de código en herrDP_informes_invasionDP.py, se corrigen errores de interpretación de TIPO_INVASION y otros (16/3/26)
         * Mejoras de la herramienta de gestor de Informes de Expropiaciones, corrección de Bugs (16/3/26)
